@@ -1,0 +1,49 @@
+Broadcast message success
+button is pressedLast Packet Sent to: ff:ff:ff:ff:ff:ff
+Last Packet Send Status: Delivery Success
+441746, 39.46,26.75,0.00
+442293, -28.94,26.75,0.00
+442840, 213048.92,26.75,0.00
+443387, 325880.91,26.75,0.00
+443934, -6221.68,26.75,0.00
+
+
+
+% Load the data from the text file
+data = readmatrix('static test.txt');
+
+% Extract the columns: time, force (grams), temperature, and pressure
+time_ms = data(:, 1);               % Time in milliseconds
+force_grams = data(:, 2);           % Force in grams
+temperature = data(:, 3);           % Temperature in degrees Celsius
+pressure = data(:, 4);              % Pressure
+
+% Convert time to seconds and normalize starting from zero
+time_s = (time_ms - time_ms(1)) / 1000;
+
+% Convert force from grams to newtons (1 gram = 0.00980665 N)
+force_newtons = force_grams * 0.00980665;
+
+% Plot thrust (force) against time
+figure;
+plot(time_s, force_newtons, '-b', 'LineWidth', 1.5);
+xlabel('Time (s)');
+ylabel('Thrust (N)');
+title('Thrust vs Time');
+grid on;
+
+% Plot temperature against time
+figure;
+plot(time_s, temperature, '-r', 'LineWidth', 1.5);
+xlabel('Time (s)');
+ylabel('Temperature (°C)');
+title('Temperature vs Time');
+grid on;
+
+% Plot pressure against time
+figure;
+plot(time_s, pressure, '-g', 'LineWidth', 1.5);
+xlabel('Time (s)');
+ylabel('Pressure');
+title('Pressure vs Time');
+grid on;
