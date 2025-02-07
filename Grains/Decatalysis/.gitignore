@@ -1,3 +1,8 @@
+## Private files
+.env
+.env.local
+.env.production
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
