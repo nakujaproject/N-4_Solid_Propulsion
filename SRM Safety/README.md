@@ -8,33 +8,24 @@ This directory shall outline our Safety Management System(SMS) when it comes to 
 
 An SMS is, basically, a safety net when things go according to [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law). It's mostly used in Aviation and other critical systems like what we're building here at Nakuja. This is paramount and will save us a lot in terms of damages and catastrophic failures.  This sums it up.
 
-There are 4 pillars of an SMS, namely:
-
-
-- **Safety Risk Management(SRM)**: 
-- **Safety Assurance**: 
-- **Safety Promotion**: 
-
-
+There are 4 pillars of an SMS, in our case:
 
 ### 1. Safety Policy
 
 <details>
 <summary>The guiding principle and safety strategy</summary>
 
-#### Chemical Safety
-#### Machining Safety 
+> This will serve the purpose of advising on the proper handling and the potential hazards of equipment and chemicals in the Workshop and Prototyping Lab.
 
 </details>
-
 
 ### 2. Safety Risk Management[^1]
 
 <details>
 <summary>The description, identification, assessment, analysis and control of the risk</summary>
 
-#### Chemical Safety
-#### Machining Safety 
+
+#### Chemical Safety 
 
 </details>
 
