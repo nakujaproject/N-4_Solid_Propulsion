@@ -10,16 +10,59 @@ An SMS is, basically, a safety net when things go according to [Murphy's Law](ht
 
 There are 4 pillars of an SMS, namely:
 
-- **Safety Policy**: The guiding principle and safety strategy
-- **Safety Risk Management(SRM)**: The description, identification, assessment, analysis and control of the risk[^1]
-- **Safety Assurance**: The evaluation of the defined/implemented policy
-- **Safety Promotion**: Informing the team of the strategy and encouraging its implementation
+
+- **Safety Risk Management(SRM)**: 
+- **Safety Assurance**: 
+- **Safety Promotion**: 
+
+
+
+### 1. Safety Policy
+
+<details>
+<summary>The guiding principle and safety strategy</summary>
+
+#### Chemical Safety
+#### Machining Safety 
+
+</details>
+
+
+### 2. Safety Risk Management[^1]
+
+<details>
+<summary>The description, identification, assessment, analysis and control of the risk</summary>
+
+#### Chemical Safety
+#### Machining Safety 
+
+</details>
+
+### 3. Safety Assurance
+
+<details>
+<summary>Informing the team of the strategy and encouraging its implementation</summary>
+
+#### Chemical Safety
+#### Machining Safety 
+
+</details>
+
+### 4. Safety Promotion
+
+<details>
+<summary>The guiding principle and safety strategy</summary>
+
+#### Chemical Safety
+#### Machining Safety 
+
+</details>
 
 [^1]: Yup. Fell for this trap, also. I almost ruined this repo for not asking beforehand. Note to self: ***Always countercheck your abbreviations and acronyms!***
 
 ## Just what I thought you should know:
 
-[!Safety Flowchart](./Assets/Images/Safety_Flowchart.png)
+![Safety Flowchart](./Assets/Images/Safety_Flowchart.png)
 
 ## References
 
