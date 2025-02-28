@@ -1,0 +1,11 @@
+Yi-min Luo, Teng Ma, Hong-wei Zhao, Nian Yang, Sen Xu, Wen-fang Zheng,
+Effect of amine-based burning rate suppressants on the HTPB propellants: Thermal decomposition and combustion characteristics,
+Acta Astronautica,
+Volume 219,
+2024,
+Pages 497-505,
+ISSN 0094-5765,
+https://doi.org/10.1016/j.actaastro.2024.03.045.
+(https://www.sciencedirect.com/science/article/pii/S009457652400170X)
+Abstract: Slow-burn propellants are crucial for aerospace advancement. This study focuses on the development of slow-burn propellants by replacing a small amount of AP (3–9 %) with various amine-based burning rate suppressants (BRSs). The consistency between thermal analysis and combustion test results indicates a direct link between the main exothermic decomposition process and combustion performance, with changes in onset temperature positively correlated with decreases in combustion parameters. Upon adding 3 % oxamide, the onset temperature of the main decomposition peak in DSC shifted backward by 16.2 °C, significantly higher than the formulations containing ammonium sulfate at 2.6 °C and ammonium oxalate at −0.8 °C. As the content of oxamide further increased from 3 to 9 %, the ignition delay time increased simultaneously by 0.300–1.638 s, atmospheric burning rate decreased by 14.01–45.45 %. These values represent the maximum among formulations with the same content of the BRSs, mainly attributed to its higher heat absorption capacity.
+Keywords: Slow-burn propellant; DSC/TG; Combustion characteristics

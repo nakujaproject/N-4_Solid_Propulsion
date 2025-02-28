@@ -1,0 +1,11 @@
+Dan Zhang, Song Lu, Lun-Lun Gong, Cheng-Yang Cao, He-Ping Zhang,
+Effects of calcium carbonate on thermal characteristics, reaction kinetics and combustion behaviors of 5AT/Sr(NO3)2 propellant,
+Energy Conversion and Management,
+Volume 109,
+2016,
+Pages 94-102,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2015.11.051.
+(https://www.sciencedirect.com/science/article/pii/S0196890415010717)
+Abstract: The effects of CaCO3 on thermal and combustion characteristics of solid propellants composed of the novel green energetic material 5AT/Sr(NO3)2 are examined. Thermogravimetry–derivative thermogravimetry (TG–DTG), thermocouple measurements and closed bomb calorimetry are all employed to study the reaction mechanisms obtained when using CaCO3 as a cooling additive. In this manner, the combustion temperatures, burning rates, pressure exponents, thermal behaviors and non-isothermal reaction kinetics of solid propellant specimens are assessed. The combustion of the 5AT/Sr(NO3)2 propellant with added CaCO3 can be divided into two regions. The initial region is dominated by condensed phase reactions and exhibits a lower decomposition temperature, lower activation energy and higher burning rate. These results demonstrate that the addition of CaCO3 increases the reactivity of the propellant. The latter region is primarily associated with gas phase reactions, and the decomposition temperature and activation energy all appear to be elevated in this region, although the exhaust gas temperature and burning rate are greatly reduced. The pressure exponent is also reduced significantly in this stage, providing evidence for increased combustion stability. The thermal characteristics of the decomposition reaction as observed microscopically indicate significant synergistic effects of the CaCO3 on the burning behavior. CaCO3 addition has been shown to generate a significant cooling effect and the combination of this compound with 5AT/Sr(NO3)2 results in a propellant with excellent thermal behavior and steady combustion. This propellant formulation is safe, scalable and inexpensive and therefore CaCO3 appears to be an ideal agent for the modification of the gas generation performance of solid propellants.
+Keywords: 5-Amino-1H-tetrazole; Calcium carbonate; Thermal decomposition; Burning rate; Closed bomb; Solid propellant

@@ -1,0 +1,26 @@
+<Document>
+  <FileVersion>1</FileVersion>
+  <PropellantData>
+    <ChamberPressure>572</ChamberPressure>
+    <ExhaustPressure>14.7</ExhaustPressure>
+    <Temperature>298</Temperature>
+    <Boost>True</Boost>
+    <PropellantName>Propellant Name</PropellantName>
+    <Comments />
+    <Ingredient>
+      <Name>POTASSIUM NITRATE</Name>
+      <Wt>977.830</Wt>
+    </Ingredient>
+    <Ingredient>
+      <Name>SORBITOL</Name>
+      <Wt>526.520</Wt>
+    </Ingredient>
+    <Ingredient>
+      <Name>IRON OXIDE</Name>
+      <Wt>15.040</Wt>
+    </Ingredient>
+    <BurnRateCoefficient>0</BurnRateCoefficient>
+    <BurnRateExponent>0</BurnRateExponent>
+    <SolidGrainWts>True</SolidGrainWts>
+  </PropellantData>
+</Document>
