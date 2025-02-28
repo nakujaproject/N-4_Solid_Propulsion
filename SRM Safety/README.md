@@ -10,50 +10,16 @@ An SMS is, basically, a safety net when things go according to [Murphy's Law](ht
 
 There are 4 pillars of an SMS, in our case:
 
-### 1. Safety Policy
+1. **Safety Policy**: The guiding principle and safety strategy.
+2. **Safety Risk Management**[^1]: The description, identification, assessment, analysis and control of the risk.
+3. **Safety Assurance**: Informing the team of the strategy and encouraging its implementation
+4. **Safety Promotion**: The guiding principle and safety strategy
 
-<details>
-<summary>The guiding principle and safety strategy</summary>
-
-> This will serve the purpose of advising on the proper handling and the potential hazards of equipment and chemicals in the Workshop and Prototyping Lab.
-
-</details>
-
-### 2. Safety Risk Management[^1]
-
-<details>
-<summary>The description, identification, assessment, analysis and control of the risk</summary>
-
-
-#### Chemical Safety 
-
-</details>
-
-### 3. Safety Assurance
-
-<details>
-<summary>Informing the team of the strategy and encouraging its implementation</summary>
-
-#### Chemical Safety
-#### Machining Safety 
-
-</details>
-
-### 4. Safety Promotion
-
-<details>
-<summary>The guiding principle and safety strategy</summary>
-
-#### Chemical Safety
-#### Machining Safety 
-
-</details>
-
-[^1]: Yup. Fell for this trap, also. I almost ruined this repo for not asking beforehand. Note to self: ***Always countercheck your abbreviations and acronyms!***
+[^1]: SRM stands for Solid Rocket Motor. It might be confused with this, but for future references: ***Always countercheck your abbreviations and acronyms!***
 
 ## Just what I thought you should know:
 
-![Safety Flowchart](./Assets/Images/Safety_Flowchart.png)
+<img alt="Safety Flowchart" src="./Assets/Images/Safety_Flowchart.png" style="width:300px;height:400px" />
 
 ## References
 
